@@ -201,7 +201,7 @@ def game():
 						#	running = False
 						#	break
 		if (winner != '') :
-			if (winner == 'X' ) or (winner == 'O'):
+			if (winner in ('O','X'):
 				text = str(winner+ '  WINS!')
 			elif (winner =='d'):
 				text = 'IT \'S A DRAW!!!'
