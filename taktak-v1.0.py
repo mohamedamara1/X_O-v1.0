@@ -1,6 +1,6 @@
 import pygame, sys, time
 pygame.init()
-#good luck
+#good luck !!
 
 #window settings
 width = 900
